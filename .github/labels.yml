@@ -1,1 +1,18 @@
-
+- name: To Do
+  color: 0366d6
+  description: Nog te doen
+- name: In Progress
+  color: fbca04
+  description: Bezig
+- name: Done
+  color: 0e8a16
+  description: Afgerond
+- name: User Story
+  color: 5319e7
+  description: Functionele user story
+- name: Bug
+  color: d73a4a
+  description: Fout of probleem
+- name: Sprint 1
+  color: 1f883d
+  description: Eerste sprint
